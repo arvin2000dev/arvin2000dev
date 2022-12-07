@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arvin2000dev
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ... Why even bother reaching me ?
 

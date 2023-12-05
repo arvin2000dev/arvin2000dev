@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Arvin and I'm a Backend Developer 🚀, from Earth 🌏!</h2>
+<h2 align="center">Hi 👋! My name is Arvin and I'm a Backend Developer 🚀, from Earth 🌏!</h2>
 
 ###
 
@@ -11,11 +11,13 @@
 
 ###
 
-<img align="right" height="116" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif"  />
+<div align="center">
+<img height="250" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif"  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
@@ -32,7 +34,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://t.me/arvindev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>

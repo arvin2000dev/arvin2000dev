@@ -17,23 +17,23 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="8" />
+  <img width="3" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 

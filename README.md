@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=arvin2000dev&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=6" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvin2000dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=arvin2000dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6" height="135" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvin2000dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="135" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif"  />
+<img align="right" height="159" src="https://miro.medium.com/v2/resize:fit:679/1*vBi4Ycgdn5t3lu2SvQXuog.gif"  />
 
 ###
 

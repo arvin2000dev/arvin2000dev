@@ -5,6 +5,12 @@
 ###
 
 <div align="center">
+  <img src="https://typograssy.deno.dev/api?text=Welcome%20to%20arvin%20atri's%20github%20profile!&bg=0e1117&speed=50&comment=">
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=arvin2000dev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=6" height="135" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arvin2000dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="135" alt="languages graph"  />
 </div>
@@ -49,8 +55,9 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/arvin2000dev/arvin2000dev/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
 

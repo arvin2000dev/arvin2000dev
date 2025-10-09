@@ -2,11 +2,6 @@
 
 <h2 align="center">Hi 👋! My name is Arvin and I'm a Backend Developer 🚀, from Earth 🌏!</h2>
 
-###
-
-<div align="center">
-  <img src="https://typograssy.deno.dev/api?text=Welcome%20to%20arvin%20atri's%20github%20profile!&bg=0e1117&speed=50&comment=">
-</div>
 
 ###
 
@@ -50,19 +45,6 @@
   <a href="https://www.linkedin.com/in/arvin-atri-6b6516142/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-###
-
-<br clear="both">
-<div align="center">
-<img src="https://raw.githubusercontent.com/arvin2000dev/arvin2000dev/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/arvin2000dev/count.svg?"  />
 </div>
 
 ###
